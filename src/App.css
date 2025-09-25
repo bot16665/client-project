@@ -1,0 +1,5 @@
+/* Always keep background black + white text */
+body {
+  @apply bg-black text-white;
+}
+
