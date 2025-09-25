@@ -1,6 +1,6 @@
 // src/App.jsx
 import React from "react";
-import Navbar from "./components/Navbar"; // make sure folder name matches
+import Navbar from "./Components/Navbar"; // make sure folder name matches
 
 // Import your sections
 import Home from "./pages/Home";
