@@ -34,18 +34,7 @@ const Contact = () => {
       detail: "anasshaikh.author@gmail.com",
       description: "I respond within 24 hours"
     },
-    {
-      icon: FaMapMarkerAlt,
-      title: "Location",
-      detail: " Worli Mumbai-400018, India",
-      description: "Based in the city of dreams"
-    },
-    {
-      icon: FaPhone,
-      title: "Call Me",
-      detail: "+91 8433828215",
-      description: "Mon-Fri, 10AM-6PM"
-    },
+   
     {
       icon: FaClock,
       title: "Response Time",

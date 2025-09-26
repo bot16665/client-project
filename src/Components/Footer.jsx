@@ -11,8 +11,8 @@ const Footer = () => {
 
       <div className="flex flex-col sm:flex-row  text-xl sm:gap-6 md:gap-12 ">
           <span>Email: <a href="anasshaikh.author@gmail.com" className="text-yellow-400 hover:underline">anasshaikh.author@gmail.com</a></span>
-          <span>Phone: <a href="tel:+918433828215" className="text-yellow-400 hover:underline">+91 8433828215</a></span>
-          <span>Address: Worli Mumbai-400018, India</span>
+          <span>Phone: <a href="tel:+91 xxxxxxx" className="text-yellow-400 hover:underline">+91 xxxxxxxx</a></span>
+
         </div>
 
       {/* Bottom section - social icons centered */}
